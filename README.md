@@ -1,10 +1,10 @@
 # Analysis on House Rent and Sales in NSW, Australia
 
 ## Group Members:
-- Aarushi Chaudhary - 
-- Ameer Ali Mavani - 
-- Arnav Bajaj- 
-- Kaveri Bhatia Chanana - 
+- Aarushi Chaudhary
+- Ameer Ali Mavani
+- Arnav Bajaj
+- Kaveri Bhatia Chanana
 
 ## Introduction
 
