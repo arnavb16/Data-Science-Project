@@ -1,12 +1,10 @@
-This repository contains the files for the Group Project task of Group 5 for COMP2200/6200 in S2 2021.
-
 # Analysis on House Rent and Sales in NSW, Australia
 
 ## Group Members:
-- Aarushi Chaudhary - 46113908
-- Ameer Ali Mavani - 46812342
-- Arnav Bajaj- 46806423
-- Kaveri Bhatia Chanana - 46282920
+- Aarushi Chaudhary - 
+- Ameer Ali Mavani - 
+- Arnav Bajaj- 
+- Kaveri Bhatia Chanana - 
 
 ## Introduction
 
